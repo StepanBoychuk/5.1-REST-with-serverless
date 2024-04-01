@@ -1,0 +1,20 @@
+{
+  "name": "5.1-rest-with-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.foxminded.ua:foxstudent106145/5.1-rest-with-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
